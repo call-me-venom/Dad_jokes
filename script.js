@@ -186,7 +186,6 @@ const jokes = [
 
 
 function showJoke(event) {
-    event.preventDefault();
     const jokeElement = document.getElementById('jokeText');
     const randomIndex = Math.floor(Math.random() * jokes.length);
     jokeElement.textContent = jokes[randomIndex];
