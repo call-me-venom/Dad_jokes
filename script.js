@@ -89,7 +89,7 @@ const jokes = [
     "Why don’t ants get sick? Because they have tiny ant-bodies.",
     "What do you call a magic dog? A labracadabrador.",
     "What do you call a bear with no teeth? A gummy bear.",
-    "How does a penguin build its house? Igloos it together."
+    "How does a penguin build its house? Igloos it together.",
     "Why don’t you ever see elephants hiding in trees? Because they’re so good at it.",
     "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
     "I'm on a seafood diet. I see food and I eat it.",
